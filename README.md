@@ -22,7 +22,7 @@ Sabendo que seno de 30° = 1/2, o programa fará o seguinte cálculo:
 
 Logo, o cateto oposto (lado B) possui 8 cm.
 
-![Exemplo](Documentos/exemplo%20-%20trigonometria.png)
+![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
 
 ## Atenção!
 - Evite de clicar no botão Calcular com as Text Boxes sem texto ou com caracteres inválidos;
