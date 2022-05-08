@@ -11,12 +11,22 @@ Para que o programa utilize a função:
 - **Coseno (cateto adjacente / hipotenusa)**, deve ser inserido um \* no lado **B**, e um número e a letra **x** nos lados **A** e **C**;
 - **Tangente (cateto oposto / cateto adjacente)**, deve ser inserido um \* no lado **A**, e um número e a letra **x** nos lados **B** e **C**.
 
-Após inserir os respectivos valores e clicar no botão de Calcular, através de uma classe externa, será feito um cálculo dependendo da posição dos valores e será retornado para a tela através de uma TextBox no canto inferior da tela. Caso queira fazer outra conta, só clicar no botão Limpar
-&nbsp;
+Após inserir os respectivos valores e clicar no botão de Calcular, através de uma classe externa, será feito um cálculo dependendo da posição dos valores e será retornado para a tela através de uma TextBox no canto inferior da tela. Caso queira fazer outra conta, só clicar no botão Limpar.
+
+Exemplo:
+Supomos que a hipotenusa tenha uma medida de 16 cm e quero descobrir a medida do cateto oposto com um ângulo de 30°, logo o cateto adjacente será irrelevante para o cálculo. Nesse caso, a função trigonométrica que será usada é o **Seno**.
+
+Sabendo que seno de 30° = 1/2, o programa fará o seguinte cálculo:
+
+<p align=center> <b> 1/2 = x/16 → x = 16/2 → x = 8 </b> </p>
+
+Logo, o cateto oposto (lado B) possui 8 cm.
+
+![Exemplo](file:///C:/Users/fabri/OneDrive/Documentos/exemplo%20-%20trigonometria.png)
 
 ## Atenção!
 - Evite de clicar no botão Calcular com as Text Boxes sem texto ou com caracteres inválidos;
 - O programa só permite o uso de números acima de 0;
-- O resultado retornado sempre estará na forma de decimal.
+- O resultado retornado sempre estará na forma de decimal e em centímetros.
 
 Este é o meu programa, espero que tenha gostado e que a explicação tenha sido eficiente. No próprio código, há alguns comentários explicando as linhas para caso queira entender melhor.
