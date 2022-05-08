@@ -11,11 +11,11 @@ Para que o programa utilize a função:
 - **Coseno (cateto adjacente / hipotenusa)**, deve ser inserido um \* no lado **B**, e um número e a letra **x** nos lados **A** e **C**;
 - **Tangente (cateto oposto / cateto adjacente)**, deve ser inserido um \* no lado **A**, e um número e a letra **x** nos lados **B** e **C**.
 
-Após inserir os respectivos valores e clicar no botão de Calcular, através de uma classe externa, será feito um cálculo dependendo da posição dos valores e será retornado para a tela através de uma TextBox no canto inferior da tela.
+Após inserir os respectivos valores e clicar no botão de Calcular, através de uma classe externa, será feito um cálculo dependendo da posição dos valores e será retornado para a tela através de uma TextBox no canto inferior da tela. Caso queira fazer outra conta, só clicar no botão Limpar
 &nbsp;
 
 ## Atenção!
-- Evite de clicar no botão com as Text Boxes sem texto ou com caracteres inválidos;
+- Evite de clicar no botão Calcular com as Text Boxes sem texto ou com caracteres inválidos;
 - O programa só permite o uso de números acima de 0;
 - O resultado retornado sempre estará na forma de decimal.
 
