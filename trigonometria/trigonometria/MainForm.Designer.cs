@@ -199,10 +199,10 @@ namespace trigonometria
 			// 
 			this.label11.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label11.ForeColor = System.Drawing.Color.Red;
-			this.label11.Location = new System.Drawing.Point(461, 49);
+			this.label11.Location = new System.Drawing.Point(422, 49);
 			this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
 			this.label11.Name = "label11";
-			this.label11.Size = new System.Drawing.Size(481, 54);
+			this.label11.Size = new System.Drawing.Size(520, 54);
 			this.label11.TabIndex = 16;
 			this.label11.Text = "Inserir um x no valor que deseja descobrir e um * no valor que não é necessário p" +
 	"ara o cálculo";
